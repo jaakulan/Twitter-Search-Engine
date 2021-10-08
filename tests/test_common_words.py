@@ -1,6 +1,3 @@
-'''A3. Tester for the function common_words in tweets.
-'''
-
 import unittest
 import tweets
 
