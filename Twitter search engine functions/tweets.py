@@ -1,5 +1,3 @@
-"""Assignment 3: Tweet Analysis"""
-
 from typing import List, Dict, TextIO, Tuple
 
 HASH_SYMBOL = '#'
