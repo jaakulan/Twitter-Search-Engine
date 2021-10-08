@@ -1,5 +1,3 @@
-"""Checker for CSCA08 Assignment 3"""
-
 import sys, io
 
 sys.path.insert(0, './pyta')
