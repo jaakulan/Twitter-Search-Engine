@@ -1,6 +1,3 @@
-'''A3. Tester for the function extract_mentions in tweets.
-'''
-
 import unittest
 import tweets
 
